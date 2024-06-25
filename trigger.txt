@@ -1,1 +1,1 @@
-redis:7.2.5 registry.cn-hangzhou.aliyuncs.com/eversec_docker/redis-arm:7.2.5
+redis:6.2.14 registry.cn-hangzhou.aliyuncs.com/eversec_docker/redis-arm:6.2.14
