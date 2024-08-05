@@ -1,1 +1,1 @@
-mysql:8.0 registry.cn-hangzhou.aliyuncs.com/eversec_docker/mysql-arm:8.0
+mysql:8.0 registry.cn-hangzhou.aliyuncs.com/eversec_docker/mysql:8.0
