@@ -1,1 +1,1 @@
-grafana/grafana:11.4.0 registry.cn-hangzhou.aliyuncs.com/eversec_docker/grafana:11.4.0
+clickhouse:24.9.3.128 registry.cn-hangzhou.aliyuncs.com/eversec_docker/clickhouse:24.9.3.128
